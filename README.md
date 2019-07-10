@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Facebook introduces emoticons instead of "dislikes"
 
 You can use the [editor on GitHub](https://github.com/facebookemojis/facebook-emojis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
