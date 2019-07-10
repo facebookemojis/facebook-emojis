@@ -2,26 +2,11 @@
 
 Facebook will finally fulfill the promise and expand the functions of the like button. Now it will be added as many as seven emoticons expressing a variety of emotions from the published post.
 
- 
-
-Earlier, Mark Zuckerberg reported on the development of a button expressing the “dislike” of the post. Users are waiting for its appearance almost from the day the social network was founded. However, instead of it, “reactions” will appear (Reactions) - that is the name of the developed function. The news highlighted the resource Engadget.com, citing employees of the company as a source of information.
+ Earlier, Mark Zuckerberg reported on the development of a button expressing the “dislike” of the post. Users are waiting for its appearance almost from the day the social network was founded. However, instead of it, “reactions” will appear (Reactions) - that is the name of the developed function. The news highlighted the resource Engadget.com, citing employees of the company as a source of information.
 
 The usual "like" with it does not go anywhere. By clicking on the button, network users will be able to mark their favorite entry as before. Or choose a smiley to express your reaction to the content of the tape.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+# https://wowemojis.com/facebook-emojis/
 
 Engadget also posted a screenshot of emoticons. The images convey the following emotions: love, laughter, smile, surprise, sadness and anger. Residents of Spain and Ireland are luckier than others - they will be able to try out the "reaction" today - October 9th. The function will spread to other regions a bit later. There will also be involved the audience of the service for business communications Pages. Advertising services, however, will continue to consider the function as a "like".
 
