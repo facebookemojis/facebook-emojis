@@ -6,7 +6,7 @@ Facebook will finally fulfill the promise and expand the functions of the like b
 
 The usual "like" with it does not go anywhere. By clicking on the button, network users will be able to mark their favorite entry as before. Or choose a smiley to express your reaction to the content of the tape.
 
-# https://wowemojis.com/facebook-emojis/
+# [FACEBOOK EMOJIS](https://wowemojis.com/facebook-emojis//) 
 
 Engadget also posted a screenshot of emoticons. The images convey the following emotions: love, laughter, smile, surprise, sadness and anger. Residents of Spain and Ireland are luckier than others - they will be able to try out the "reaction" today - October 9th. The function will spread to other regions a bit later. There will also be involved the audience of the service for business communications Pages. Advertising services, however, will continue to consider the function as a "like".
 
